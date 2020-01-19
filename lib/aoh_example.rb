@@ -23,7 +23,7 @@ end
 
 def aoh_lookup(aoh, row, key)
   text = aoh[row][key]
-  value
+  text
 end
 
 def aoh_update(aoh, row, key, new_value)
